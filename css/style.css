@@ -1,0 +1,34 @@
+body{
+  background-color:#9932cc;
+}
+.main-div{
+  border-radius:20px;
+  margin:8% auto auto auto;
+  width:500px;
+  background-color:white;
+}
+.SHAHI
+{
+  margin:1% auto auto auto;
+  width:450px;
+}
+.head
+{
+
+  color:#9932cc;
+}
+.butt
+{
+  background-color:#9932cc;
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
+.author
+{
+  color:#9932cc;
+}
+#mybutt
+{
+  color:white;
+}
